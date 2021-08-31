@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Calculations
 {
+	//This is the first project of CS1400
 	public static void main(String [] args)
 	{
 		Scanner keyboard = new Scanner(System.in);
