@@ -10,7 +10,7 @@ public class Calculations
 		int number;
 		number = keyboard.nextInt();
 
-		System.out.print( "Enter a second number: ");
+		System.out.print( "Enter a second number: ")
 		int second;
 		second = keyboard.nextInt();
 
